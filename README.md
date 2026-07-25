@@ -1,2 +1,2 @@
 # codebook
-[![Build Codebook](https://github.com/illumeow/illumeow_codebook/actions/workflows/build-codebook.yml/badge.svg?branch=master)](https://github.com/illumeow/illumeow_codebook/actions/workflows/build-codebook.yml)
+[![Build Codebook](https://github.com/illumeow/codebook/actions/workflows/build-codebook.yml/badge.svg?branch=main)](https://github.com/illumeow/codebook/actions/workflows/build-codebook.yml)
